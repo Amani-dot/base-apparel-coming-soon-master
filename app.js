@@ -1,7 +1,7 @@
 // alert('working')
 
 function formValidate(inputText){
-    var mailFormat = /^w+([.-]?w+)*@w+([.-]w+)*(.w{2,3})+$/;
+    var mailFormat = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     if (inputText.value.match(mailFormat)){
        alert("You've entered a valid email address");
        document.myForm.Email.focus();
