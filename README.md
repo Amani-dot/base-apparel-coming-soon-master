@@ -5,10 +5,10 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 
 ### Screenshot
-
+![](images/Screen%20Shot%202022-03-02%20at%2017.42.33.png)
 
 ## Links
-![ScreenShot](Screen Shot 2022-03-02 at 17.42.33.png)
+
 ## My process
 
   Started with setting up the layouts in HTML and then JS to make it Work and lastly Design it with CSS
