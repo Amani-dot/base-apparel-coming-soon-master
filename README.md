@@ -33,7 +33,6 @@ I learned so much about Responsiveness and what sizes to use for different eleme
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [Amani-Off](https://www.twitter.com/Amani-Off)
 
 
