@@ -5,7 +5,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 
 ### Screenshot
-![](images/Screen%20Shot%202022-03-02%20at%2017.42.33.png)
+![](images/Screenshot%202022-03-02%20102217.png)
 
 ## Links
 
